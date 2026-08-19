@@ -33,8 +33,8 @@ npm install @attestprotocol/stellar-sdk
 
 ## Recognition
 
-- Solana Radar Hackathon — Public Goods Award
-- Stellar Community Fund — award recipient for attestation infrastructure
+- [Solana Radar Hackathon — Public Goods Award](https://x.com/solana/status/1856362113561964676)
+- [Stellar Community Fund — award recipient for attestation infrastructure](https://communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX)
 
 ---
 
