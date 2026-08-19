@@ -1,10 +1,10 @@
 <div align="center">
 
-### Daccred
+![Daccred](./banner.svg)
 
 Attestation and identity infrastructure for open blockchains.
 
-[attest.so](https://attest.so) · [Docs](https://docs.attest.so) · [daccred.co](https://daccred.co)
+**[daccred.co](https://daccred.co)** · **[attestprotocol.org](https://attestprotocol.org)** · [Docs](https://docs.attest.so) · [Sandbox](https://sandbox.attest.so) · [Explorer](https://stellar.attestprotocol.org)
 
 </div>
 
@@ -14,7 +14,7 @@ The team now builds under **[Lightgate](https://github.com/lightgatehq)**, an in
 
 ## Attest Protocol
 
-Live Protocol and Authority contracts on Stellar mainnet and testnet, with SDKs and tooling:
+Live Protocol and Authority contracts on Stellar mainnet and testnet, with SDKs and tooling. Try it without writing code at the [sandbox](https://sandbox.attest.so), or browse live attestations in the [explorer](https://stellar.attestprotocol.org).
 
 ```bash
 npm install @attestprotocol/stellar-sdk
