@@ -10,8 +10,6 @@ Attestation and identity infrastructure for open blockchains.
 
 Daccred started as "decentralized accreditation" — onchain credentials you can verify without asking anyone's permission. That work became **Attest Protocol**, a unified trust framework for issuing and resolving attestations: identity, reputation, and claims as composable onchain primitives.
 
-The team now builds under **[Lightgate](https://github.com/lightgatehq)**, an independent product and research company working on trusted context infrastructure for digital markets. Attest Protocol remains the flagship of this org; newer financial-data work (Orion, the Lightgate stack) lives across both.
-
 ## Attest Protocol
 
 Live Protocol and Authority contracts on Stellar mainnet and testnet, with SDKs and tooling. Try it without writing code at the [sandbox](https://sandbox.attest.so), or browse live attestations in the [explorer](https://stellar.attestprotocol.org).
@@ -25,10 +23,6 @@ npm install @attestprotocol/stellar-sdk
 | [`attest.so`](https://github.com/daccred/attest.so) | Core monorepo — contracts, SDKs, CLI for the unified trust framework |
 | [`sorobangraph.attest.so`](https://github.com/daccred/sorobangraph.attest.so) | Go indexer for Soroban attestation events on Stellar |
 | [`soroban-attestation-resolvers`](https://github.com/daccred/soroban-attestation-resolvers) | Resolver contracts for attestation logic on Soroban |
-
-## Financial data infrastructure
-
-Alongside attestations, this org is where **[Orion](https://orionhq.run)** — a DeFi positions and activity API starting with Stellar, part of the Lightgate financial graph — is being built. Its repositories open up as they mature; follow along at [orionhq.run](https://orionhq.run) and [Lightgate](https://github.com/lightgatehq).
 
 ## Learning and research
 
@@ -46,6 +40,6 @@ Alongside attestations, this org is where **[Orion](https://orionhq.run)** — a
 
 <div align="center">
 
-Building in the open. Follow along at [Lightgate](https://github.com/lightgatehq).
+Building in the open — [attestprotocol.org](https://attestprotocol.org)
 
 </div>
