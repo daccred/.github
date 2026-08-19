@@ -8,7 +8,7 @@ Attestation and identity infrastructure for open blockchains.
 
 </div>
 
-Daccred started as "decentralized accreditation" — onchain credentials you can verify without asking anyone's permission. That work became **Attest Protocol**, a unified trust framework for issuing and resolving attestations: identity, reputation, and claims as composable onchain primitives.
+Daccred started as "decentralized accreditation": onchain credentials you can verify without asking anyone's permission. That work became **Attest Protocol**, a unified trust framework for issuing and resolving attestations: identity, reputation, and claims as composable onchain primitives.
 
 ## Attest Protocol
 
@@ -20,7 +20,7 @@ npm install @attestprotocol/stellar-sdk
 
 | Repo | What it is |
 |---|---|
-| [`attest.so`](https://github.com/daccred/attest.so) | Core monorepo — contracts, SDKs, CLI for the unified trust framework |
+| [`attest.so`](https://github.com/daccred/attest.so) | Core monorepo: contracts, SDKs, CLI for the unified trust framework |
 | [`sorobangraph.attest.so`](https://github.com/daccred/sorobangraph.attest.so) | Go indexer for Soroban attestation events on Stellar |
 | [`soroban-attestation-resolvers`](https://github.com/daccred/soroban-attestation-resolvers) | Resolver contracts for attestation logic on Soroban |
 
@@ -33,13 +33,13 @@ npm install @attestprotocol/stellar-sdk
 
 ## Recognition
 
-- [Solana Radar Hackathon — Public Goods Award](https://x.com/solana/status/1856362113561964676)
-- [Stellar Community Fund — award recipient for attestation infrastructure](https://communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX)
+- [Solana Radar Hackathon: Public Goods Award](https://x.com/solana/status/1856362113561964676)
+- [Stellar Community Fund: award recipient for attestation infrastructure](https://communityfund.stellar.org/submissions/recIHN98Ja7MMb4DX)
 
 ---
 
 <div align="center">
 
-Building in the open — [attestprotocol.org](https://attestprotocol.org)
+Building in the open: [attestprotocol.org](https://attestprotocol.org)
 
 </div>
